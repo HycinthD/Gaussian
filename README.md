@@ -14,7 +14,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. Excute it
 
 ## Program:
-
+```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: HYCINTH D
@@ -47,9 +47,9 @@ for i in range(n):
     print('X%d = %0.2f' %(i,x[i]),end=' ')
 
 ## Output:
-
+```
 Screenshot (206).png
-
+```
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
